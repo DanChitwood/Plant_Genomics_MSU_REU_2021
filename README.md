@@ -1,9 +1,11 @@
+![alt text](https://github.com/DanChitwood/Plant_Genomics_MSU_REU_2021/blob/main/plants_python_logo.jpg)
+
 # Plant Genomics MSU REU, 2021
 # Plants&Python 🌻 🐍
 
 This is the GitHub repository of the Plants&Python learning materials for the Plant Genomics @ MSU REU, 2021. 
 
-**Welcome!!!***
+**Welcome!!!**
 
 Here, you can download the Jupyter notebooks and links for lessons (pre-class) and activities (in-class) for each day of learning, as well as the associated data.
 
@@ -16,30 +18,30 @@ Then, join the class Discord server using the link from the email that was sent 
 Below, a schedule of the lessons and activities we will cover over the next two weeks:
 
 **Tuesday 25 May**, Dr. Dan Chitwood (MSU):
-1. Pre-class Lesson: Lists and indexing
+1. Pre-class Lesson: ***Lists and indexing***
     * Video: Variables, Functions, Lists & Indexing [https://youtu.be/4XIllJVnT4Y](https://youtu.be/4XIllJVnT4Y)
     * Video: Slicing and data types [https://youtu.be/CIlwbP_QM1w](https://youtu.be/CIlwbP_QM1w)
-3. In-class Activity: Plants and climate
+3. In-class Activity: ***Plants and climate***
 
 **Wednesday 26 May**, Dr. Dan Chitwood (MSU):
-1. Pre-class Lesson: Visualizing data using matplotlib
+1. Pre-class Lesson: ***Visualizing data using matplotlib***
     * Video: Visualizing data using matplotlib [https://youtu.be/PJ1dvAgOAj0](https://youtu.be/PJ1dvAgOAj0)
-3. In-class Activity: The shapes of leaves and sunflower
+3. In-class Activity: ***The shapes of leaves and sunflower***
 
 **Thursday 27 May**, Dr. Dan Chitwood (MSU):
-1. Pre-class Lesson: Calculating the Golden angle with loops
+1. Pre-class Lesson: ***Calculating the Golden angle with loops***
     * Video: Loops and the Fibonacci sequence [https://youtu.be/Cvi3dByz9SE](https://youtu.be/Cvi3dByz9SE)
-3. In-class Activity: How to build a sunflower
+3. In-class Activity: ***How to build a sunflower***
 
 **Friday 28 May**, Dr. Dan Chitwood (MSU):
-1. Pre-class Lesson: Pandas, dataframes, and seaborn
+1. Pre-class Lesson: ***Pandas, dataframes, and seaborn***
     * Video: Pandas, dataframes, and seaborn [https://youtu.be/jEQRU55x0e4](https://youtu.be/jEQRU55x0e4)
-3. In-class Activity: Grapevines in a warming world
+3. In-class Activity: ***Grapevines in a warming world***
 
 **No class, Monday 31 May, Memorial Day**
 
 **Tuesday 1 June**, Dr. Alejandra Rougon (ENES León)
-1. Pre-class Lesson: Learning the command line
+1. Pre-class Lesson: ***Learning the command line***
     * Link: [https://sites.google.com/view/plantspythoncommandline/inicio](https://sites.google.com/view/plantspythoncommandline/inicio)
     * Video: 01. Introduction [https://youtu.be/L1pkyBwCESM](https://youtu.be/L1pkyBwCESM)
     * Video: 02. The Virtual Terminal [https://youtu.be/hIuNeV6jBZE](https://youtu.be/hIuNeV6jBZE)
@@ -50,17 +52,21 @@ Below, a schedule of the lessons and activities we will cover over the next two 
     * Video: 07. Edit, Sort, Cut & grep [https://youtu.be/LtpZITknn3U](https://youtu.be/LtpZITknn3U)
     * Video: 08. Word Count, Pipelines & Permissions [https://youtu.be/0KRUZv1BmVU](https://youtu.be/0KRUZv1BmVU)
     * Video: 09. Biological Data Formats [https://youtu.be/76v6bI5DEXk](https://youtu.be/76v6bI5DEXk)
-2. In-class Activity: Plants & Pathogens
+2. In-class Activity: ***Plants & Pathogens***
     * Link: [https://sites.google.com/view/plantspythoncommandline/in-class-activity](https://sites.google.com/view/plantspythoncommandline/in-class-activity)
 
-**Wednesday 2 June**, Dr. Bob VanBuren (MSU)
-Materials available soon: Genome assembly
+**Wednesday 2 June**, Dr. Bob VanBuren (MSU) 
 
-**Thursday 3 June**, Dr. Bob VanBuren (MSU)
-Materials available soon: Comparing genes and genomes
+*Materials available soon*: ***Genome assembly***
 
-**Friday 4 June**, Dr. Bob VanBuren (MSU)
-Materials available soon: Short read analysis
+**Thursday 3 June**, Dr. Bob VanBuren (MSU) 
 
-**Monday 7 June**, Dr. Bob VanBuren (MSU)
-Materials available soon: Gene expression (RNASeq) analyses
+*Materials available soon*: ***Comparing genes and genomes***
+
+**Friday 4 June**, Dr. Bob VanBuren (MSU) 
+
+*Materials available soon*: ***Short read analysis***
+
+**Monday 7 June**, Dr. Bob VanBuren (MSU) 
+
+*Materials available soon*: ***Gene expression (RNASeq) analyses***
