@@ -9,7 +9,7 @@ Here, you can download the Jupyter notebooks and links for lessons (pre-class) a
 
 Be sure to watch the course [introduction video](https://youtu.be/wXAf_XSNeZ4). Remember, this course assumes ***no prior knowledge in coding or plant biology***. We will be covering a lot of material, and the goal is not for you to master it all, but for you to ***learn new skills that can be applied to your intended goals and help you further your career***. 
 
-After watching the introduction, download and install Anaconda, following the [installation instructions](https://docs.anaconda.com/anaconda/install/) for your operating system.
+After watching the introduction, download and install Anaconda, following the [installation instructions](https://docs.anaconda.com/anaconda/install/) for your operating system. You can watch the [installation video](https://youtu.be/FrDYpLVuTkQ) and try out your first Python code in Jupyter notebooks!
 
 Then, join the class Discord server using the link from the email that was sent to you. We will be having class in the ***Lecture hall*** voice channel by video conference. Classes will be 10am-2pm Eastern Time, with a daily lesson and introduction 10am-11pm, group activity work and lunch break 11pm-1pm, and reconvening for group presentations and introducing the lesson for the next day from 1pm-2pm.
 
