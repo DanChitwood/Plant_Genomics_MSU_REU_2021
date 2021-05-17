@@ -17,6 +17,9 @@ Then, join the class Discord server using the link from the email that was sent 
 
 Below, a schedule of the lessons and activities we will cover over the next two weeks:
 
+**Monday 24 May**:  
+Getting to know each other, introduction to the course, and making sure everybody has downloaded Anaconda and can get Jupyter to work.
+
 **Tuesday 25 May**, Dr. Dan Chitwood (MSU):
 1. Pre-class Lesson: ***Lists and indexing***
     * Video: Variables, Functions, Lists & Indexing [https://youtu.be/4XIllJVnT4Y](https://youtu.be/4XIllJVnT4Y)
