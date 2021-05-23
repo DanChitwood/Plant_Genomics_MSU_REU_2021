@@ -77,5 +77,5 @@ Getting to know each other, introduction to the course, and making sure everybod
 _____
 You can view the contents of this repo in the Jupyter notebook viewer [here](https://nbviewer.jupyter.org/github/DanChitwood/Plant_Genomics_MSU_REU_2021/tree/main/).
 
-Or you can interact with Jupyter notebooks in this repository [here](https://mybinder.org/v2/gh/DanChitwood/Plant_Genomics_MSU_REU_2021/HEAD) or by clicking the link below:
+Or you can interact with Jupyter notebooks in this repository [here](https://mybinder.org/v2/gh/DanChitwood/Plant_Genomics_MSU_REU_2021/HEAD) or by clicking the following icon:  
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DanChitwood/Plant_Genomics_MSU_REU_2021/HEAD)
