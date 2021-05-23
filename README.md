@@ -73,3 +73,6 @@ Getting to know each other, introduction to the course, and making sure everybod
 **Monday 7 June**, Dr. Bob VanBuren (MSU) 
 
 *Materials available soon*: ***Gene expression (RNASeq) analyses***
+
+_____
+You can view the contents of this repo in the Jupyter notebook viewer [here](https://nbviewer.jupyter.org/github/DanChitwood/Plant_Genomics_MSU_REU_2021/tree/main/).
