@@ -1,4 +1,6 @@
-![alt text](https://github.com/DanChitwood/Plant_Genomics_MSU_REU_2021/blob/main/plants_python_logo.jpg)
+![alt text](https://github.com/DanChitwood/Plant_Genomics_MSU_REU_2021/blob/main/plants_python_logo.jpg). 
+
+# The updated version of Plants & Python is now a Jupyter Book: [https://plantsandpython.github.io/PlantsAndPython/](https://plantsandpython.github.io/PlantsAndPython/)
 
 # Plant Genomics MSU REU, 2021
 # Plants&Python 🌻 🐍
